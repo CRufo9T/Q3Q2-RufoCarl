@@ -1,0 +1,56 @@
+body {
+    background-color: #1a1a1a; /* Dark background */
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+#title, #footer {
+    text-align: center;
+    font-size: 24px;
+    color: white
+}
+
+
+#main {
+    background-color: #e3f2fd;
+    border-radius: 15px;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+details {
+    background-color: #ff8f8f;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+
+input, select {
+    width: 90%;
+    padding: 8px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+
+#ticket img {
+    max-width: 200px;  
+    height: auto;  
+    display: block;
+    margin: 0 auto;  
+    border-radius: 10px; 
+    width: 200px;
+   
+}
+h1{
+	text-align: center;
+	color: white;
+}
